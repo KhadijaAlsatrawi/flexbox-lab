@@ -88,7 +88,7 @@ main {
 }
 
 .card{
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 nav button {
@@ -109,6 +109,8 @@ nav button {
 
 .card-footer {
   font-size: 14px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .card-footer * {
